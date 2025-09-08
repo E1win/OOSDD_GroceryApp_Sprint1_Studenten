@@ -1,4 +1,5 @@
-# GroceryApp Sprint 1 - Studentversie van Elwin...
+# GroceryApp Sprint 1 - Studentversie van Elwin
+
 In deze versie zijn de wijzigingen doorgevoerd en is de code compleet.  
 
 ## Studentversie:  
